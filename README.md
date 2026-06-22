@@ -51,9 +51,10 @@ My interests include Artificial Intelligence, Machine Learning, Natural Language
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dashwanth1012&layout=compact&theme=github_dark)
 
-## 🏆 GitHub Trophies
+## Contribution Graph
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dashwanth1012&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Dashwanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dashwanth1012&theme=github-dark)](https://github.com/dashwanth1012)
+
 
 ## 🔝 Top Contributed Repositories
 
