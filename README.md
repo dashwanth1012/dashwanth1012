@@ -53,7 +53,7 @@ My interests include Artificial Intelligence, Machine Learning, Natural Language
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dashwanth1012&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dashwanth1012&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔝 Top Contributed Repositories
 
