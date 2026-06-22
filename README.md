@@ -53,12 +53,16 @@ My interests include Artificial Intelligence, Machine Learning, Natural Language
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=dashwanth1012&theme=algolia&no-frame=true&no-bg=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dashwanth1012&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔝 Top Contributed Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=dashwanth1012&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Featured Projects
 
+- AI Customer Support Assistant (RAG-Based)
+- StormSense AI – Thunderstorm Forecasting System
+- WasteZero – Smart Waste Management Platform
+- Credit Card Fraud Detection System
 ---
 
 ![](https://komarev.com/ghpvc/?username=dashwanth1012&style=flat-square)
