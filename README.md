@@ -1,8 +1,8 @@
 # About Me
 
-I am Dashwanth Reddy, a B.Tech Information Technology student with a strong interest in Artificial Intelligence, Full-Stack Development, and Software Engineering.
+I am Gedela Dashwanth, a B.Tech Information Technology student with a strong interest in Artificial Intelligence, Full-Stack Development, and Software Engineering.
 
-I have experience building AI-powered applications, Retrieval-Augmented Generation (RAG) systems, and intelligent forecasting solutions. During my internship at the Indian Meteorological Department (IMD) Cyclone Warning Centre, Visakhapatnam, I contributed to the development of an AI-Powered Thunderstorm Forecasting and Decision Support System for weather monitoring and risk assessment.
+I have experience in building AI-powered applications, Retrieval-Augmented Generation (RAG) systems, and intelligent forecasting solutions. During my internship at the Indian Meteorological Department (IMD) Cyclone Warning Centre, Visakhapatnam, I contributed to the development of an AI-Powered Thunderstorm Forecasting and Decision Support System for weather monitoring and risk assessment.
 
 My interests include Artificial Intelligence, Machine Learning, Natural Language Processing, System Design, and Cloud Technologies. I enjoy building scalable software solutions that solve real-world problems through technology.
 
