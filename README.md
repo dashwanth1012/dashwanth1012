@@ -42,42 +42,45 @@
 
 <div align="center">
 
-### 🧭 NAVIGATE
+### NAVIGATE
 
-[👋 About](#-about-me) •
-[🛠️ Stack](#-technology-stack) •
-[🚀 Focus](#-current-focus) •
-[🧪 Projects](#-project-lab) •
-[💼 Experience](#-experience) •
-[🏆 Achievements](#-achievements) •
-[📊 Analytics](#-github-analytics) •
-[🤝 Contact](#-lets-connect)
+[👋 About](#about-me) •
+[🛠️ Stack](#technology-stack) •
+[🚀 Focus](#current-focus) •
+[🧪 Projects](#project-lab) •
+[💼 Experience](#experience) •
+[🏆 Achievements](#achievements) •
+[📊 Analytics](#github-analytics) •
+[🤝 Contact](#lets-connect)
 
 </div>
 
 ---
 
-# 👋 About Me
+# About Me
 
 <table>
 <tr>
 
 <td width="64%">
 
-### 🚀 Software + AI Builder
+### Software + AI Builder
 
 I’m a final-year **Information Technology student** focused on building
 practical, reliable, and intelligent software systems.
 
 My work sits across three connected areas:
 
-**Software Engineering**  
+**Software Engineering**
+
 Backend development · REST APIs · Databases · DSA · OOP
 
-**Full-Stack Development**  
+**Full-Stack Development**
+
 React · Angular · JavaScript · FastAPI · Node.js
 
-**AI Engineering**  
+**AI Engineering**
+
 Machine Learning · Generative AI · RAG · LLM Applications · Prompt Engineering
 
 I enjoy taking a real-world problem from **idea → design → implementation →
@@ -87,7 +90,7 @@ testing → improvement** and turning it into a working solution.
 
 <td width="36%" align="center">
 
-### 🎯 I BUILD
+### I BUILD
 
 <img src="https://skillicons.dev/icons?i=java,python,react,angular,fastapi,nodejs,mysql,mongodb" width="300"/>
 
@@ -110,35 +113,35 @@ testing → improvement** and turning it into a working solution.
 
 ---
 
-# 🛠️ Technology Stack
+# Technology Stack
 
 <div align="center">
 
-### 💻 Languages
+## Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
 
 <br/><br/>
 
-### 🌐 Frontend
+## Frontend
 
 <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap" />
 
 <br/><br/>
 
-### ⚙️ Backend
+## Backend
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 
 <br/><br/>
 
-### 🗄️ Databases
+## Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
 
 <br/><br/>
 
-### 🧰 Tools
+## Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 
@@ -146,7 +149,7 @@ testing → improvement** and turning it into a working solution.
 
 ---
 
-## 🤖 AI / ML Capabilities
+## AI / ML Capabilities
 
 <div align="center">
 
@@ -163,7 +166,7 @@ testing → improvement** and turning it into a working solution.
 
 ---
 
-## 🧠 Core Computer Science
+## Core Computer Science
 
 <div align="center">
 
@@ -181,7 +184,7 @@ testing → improvement** and turning it into a working solution.
 
 ---
 
-# 🚀 Current Focus
+# Current Focus
 
 <div align="center">
 
@@ -231,7 +234,7 @@ scalable system architecture
 
 </div>
 
-### 🌱 Currently Exploring
+### Currently Exploring
 
 <div align="center">
 
@@ -243,13 +246,13 @@ scalable system architecture
 
 ---
 
-# 🧪 Project Lab
+# Project Lab
 
 > **Where software engineering meets AI, data, and real-world problems.**
 
 ---
 
-# 🌟 Featured Projects
+# Featured Projects
 
 <table>
 
@@ -269,7 +272,9 @@ AI-powered customer support application focused on
 `RAG` `Vector Search` `Knowledge Retrieval` `LLM Responses`
 
 <a href="https://github.com/dashwanth1012/AI-CUSTOMER-SUPPORT-ASSISTANT">
+
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -289,7 +294,9 @@ visualization and decision support**.
 `Forecasting` `Risk Prediction` `Data Analysis` `Visualization`
 
 <a href="https://github.com/dashwanth1012/Stromsense-AI">
+
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -312,7 +319,9 @@ Application focused on automated attendance using
 `Computer Vision` `API Development` `Database Integration`
 
 <a href="https://github.com/dashwanth1012/SMART-ATTENDANCE-MANAGEMENT-SYSTEM">
+
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -331,7 +340,9 @@ Interactive visual-effects system using
 `Gesture Interaction` `Computer Vision` `Real-Time Processing`
 
 <a href="https://github.com/dashwanth1012/AuraFX-Studio">
+
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -354,7 +365,9 @@ transactions using analytical and predictive methods.
 `EDA` `Feature Engineering` `Classification` `Risk Prediction`
 
 <a href="https://github.com/dashwanth1012/Credit-card-fraud-detection-system">
+
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -373,7 +386,9 @@ TypeScript-based project focused on
 `Data Processing` `Application Workflows` `Type Safety`
 
 <a href="https://github.com/dashwanth1012/groweasy-ai-crm-importer">
+
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-F43F5E?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -384,7 +399,7 @@ TypeScript-based project focused on
 
 ---
 
-# 🔬 Additional Projects
+# More Projects
 
 <details>
 <summary><b>🎵 Machine Learning & Data</b></summary>
@@ -414,6 +429,8 @@ View Repository →
 </a>
 
 </details>
+
+---
 
 <details>
 <summary><b>🌐 Web & Application Development</b></summary>
@@ -468,6 +485,8 @@ View Repository →
 
 </details>
 
+---
+
 <details>
 <summary><b>💼 Industry & Academic Work</b></summary>
 
@@ -514,7 +533,7 @@ FYP- →
 
 ---
 
-# 🗺️ Project Portfolio Map
+# Project Portfolio Map
 
 <div align="center">
 
@@ -540,7 +559,7 @@ FYP- →
 
 ---
 
-# 💼 Experience
+# Experience
 
 <table>
 
@@ -662,7 +681,7 @@ JavaScript and Bootstrap.
 
 ---
 
-# 🧠 Problem Solving
+# Problem Solving
 
 ## ☕ Java + Data Structures & Algorithms
 
@@ -699,7 +718,7 @@ through Java.
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
 <div align="center">
 
@@ -755,7 +774,7 @@ through Java.
 
 ---
 
-# 📜 Certifications
+# Certifications
 
 <details>
 <summary><b>🤖 AI & Cloud</b></summary>
@@ -796,7 +815,7 @@ through Java.
 
 ---
 
-# 🧭 Engineering Interests
+# Engineering Interests
 
 <div align="center">
 
@@ -848,7 +867,7 @@ Predictive Systems
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -864,7 +883,7 @@ Predictive Systems
 
 ---
 
-# 🔥 Contribution Streak
+# Contribution Streak
 
 <div align="center">
 
@@ -874,7 +893,7 @@ Predictive Systems
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
@@ -884,7 +903,7 @@ Predictive Systems
 
 ---
 
-# 🏅 GitHub Trophies
+# GitHub Trophies
 
 <div align="center">
 
@@ -894,7 +913,7 @@ Predictive Systems
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <div align="center">
 
@@ -907,7 +926,7 @@ Predictive Systems
 
 ---
 
-# 📌 GitHub Highlights
+# GitHub Highlights
 
 <div align="center">
 
@@ -921,7 +940,7 @@ Predictive Systems
 
 ---
 
-# 🌱 Learning & Building
+# Learning & Building
 
 <div align="center">
 
@@ -949,11 +968,11 @@ Predictive Systems
 
 ---
 
-# 🎯 Career Direction
+# Career Direction
 
 <div align="center">
 
-### 💻 SOFTWARE ENGINEERING
+### SOFTWARE ENGINEERING
 
 `Software Development`
 ·
@@ -961,7 +980,7 @@ Predictive Systems
 ·
 `Full-Stack Development`
 
-### 🤖 AI / ML ENGINEERING
+### AI / ML ENGINEERING
 
 `Machine Learning`
 ·
@@ -971,7 +990,7 @@ Predictive Systems
 ·
 `LLM Applications`
 
-### ✨ INTELLIGENT SYSTEMS
+### INTELLIGENT SYSTEMS
 
 `Prompt Engineering`
 ·
@@ -987,7 +1006,7 @@ and build software that creates practical value**.
 
 ---
 
-# 💡 Developer Philosophy
+# Developer Philosophy
 
 <div align="center">
 
@@ -1012,7 +1031,7 @@ and build software that creates practical value**.
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 <div align="center">
 
@@ -1042,7 +1061,7 @@ and build software that creates practical value**.
 
 <div align="center">
 
-## ⚡ BUILD • LEARN • SOLVE • IMPROVE
+## BUILD • LEARN • SOLVE • IMPROVE
 
 **Turning real-world problems into practical software.**
 
