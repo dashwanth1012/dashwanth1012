@@ -13,7 +13,7 @@
 <br/><br/>
 
 <!-- ========================================================= -->
-<!-- CONTACT / ACTION BUTTONS -->
+<!-- CONTACT BUTTONS -->
 <!-- ========================================================= -->
 
 <a href="https://github.com/dashwanth1012">
@@ -44,14 +44,14 @@
 
 ### NAVIGATE
 
-[👋 About](#about-me) •
-[🛠️ Stack](#technology-stack) •
-[🚀 Focus](#current-focus) •
-[🧪 Projects](#project-lab) •
-[💼 Experience](#experience) •
-[🏆 Achievements](#achievements) •
-[📊 Analytics](#github-analytics) •
-[🤝 Contact](#lets-connect)
+[About](#about-me) •
+[Tech Stack](#technology-stack) •
+[Focus](#current-focus) •
+[Projects](#project-lab) •
+[Experience](#experience) •
+[Achievements](#achievements) •
+[Analytics](#github-analytics) •
+[Contact](#lets-connect)
 
 </div>
 
@@ -69,22 +69,24 @@
 I’m a final-year **Information Technology student** focused on building
 practical, reliable, and intelligent software systems.
 
-My work sits across three connected areas:
+My work combines **software engineering, full-stack development,
+backend systems, machine learning, and modern AI applications**.
 
-**Software Engineering**
+### Software Engineering
 
-Backend development · REST APIs · Databases · DSA · OOP
+`Java` · `DSA` · `OOP` · `Backend Development` · `REST APIs` · `Databases`
 
-**Full-Stack Development**
+### Full-Stack Development
 
-React · Angular · JavaScript · FastAPI · Node.js
+`React` · `Angular` · `JavaScript` · `FastAPI` · `Node.js`
 
-**AI Engineering**
+### AI Engineering
 
-Machine Learning · Generative AI · RAG · LLM Applications · Prompt Engineering
+`Machine Learning` · `Generative AI` · `RAG` · `LLM Applications`
+· `Prompt Engineering`
 
-I enjoy taking a real-world problem from **idea → design → implementation →
-testing → improvement** and turning it into a working solution.
+I enjoy taking real-world problems from **idea → design → implementation →
+testing → improvement** and turning them into working solutions.
 
 </td>
 
@@ -271,10 +273,12 @@ AI-powered customer support application focused on
 
 `RAG` `Vector Search` `Knowledge Retrieval` `LLM Responses`
 
+**Stack**
+
+`Next.js` `Supabase`
+
 <a href="https://github.com/dashwanth1012/AI-CUSTOMER-SUPPORT-ASSISTANT">
-
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 </td>
@@ -293,10 +297,12 @@ visualization and decision support**.
 
 `Forecasting` `Risk Prediction` `Data Analysis` `Visualization`
 
+**Stack**
+
+`Python` `Machine Learning`
+
 <a href="https://github.com/dashwanth1012/Stromsense-AI">
-
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 </td>
@@ -318,10 +324,12 @@ Application focused on automated attendance using
 
 `Computer Vision` `API Development` `Database Integration`
 
+**Stack**
+
+`Python` `FastAPI` `React` `MySQL`
+
 <a href="https://github.com/dashwanth1012/SMART-ATTENDANCE-MANAGEMENT-SYSTEM">
-
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 </td>
@@ -339,10 +347,12 @@ Interactive visual-effects system using
 
 `Gesture Interaction` `Computer Vision` `Real-Time Processing`
 
+**Stack**
+
+`Python` `OpenCV` `MediaPipe`
+
 <a href="https://github.com/dashwanth1012/AuraFX-Studio">
-
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 </td>
@@ -364,10 +374,12 @@ transactions using analytical and predictive methods.
 
 `EDA` `Feature Engineering` `Classification` `Risk Prediction`
 
+**Stack**
+
+`Python` `Machine Learning`
+
 <a href="https://github.com/dashwanth1012/Credit-card-fraud-detection-system">
-
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 </td>
@@ -385,10 +397,12 @@ TypeScript-based project focused on
 
 `Data Processing` `Application Workflows` `Type Safety`
 
+**Stack**
+
+`TypeScript`
+
 <a href="https://github.com/dashwanth1012/groweasy-ai-crm-importer">
-
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-F43F5E?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 </td>
