@@ -4,32 +4,32 @@
 <!-- HERO -->
 <!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,18:0F766E,38:2563EB,60:4F46E5,80:7C3AED,100:EC4899&height=270&section=header&text=GEDELA%20DASHWANTH&fontSize=50&fontColor=FFFFFF&fontAlignY=31&animation=twinkling&desc=Software%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Prompt%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=59&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,18:0F766E,38:2563EB,58:4F46E5,78:7C3AED,100:EC4899&height=270&section=header&text=GEDELA%20DASHWANTH&fontSize=50&fontColor=FFFFFF&fontAlignY=31&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%2FML%20ENGINEER%20%7C%20PROMPT%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=59&descSize=17" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+practical+software+systems;Java+%7C+DSA+%7C+Backend+%7C+Full-Stack;Machine+Learning+%7C+Generative+AI+%7C+RAG;LLM+Applications+%7C+Prompt+Engineering;Turning+real-world+problems+into+working+software" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2700&pause=850&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+practical+software+systems;Java+%7C+DSA+%7C+Backend+%7C+Full-Stack;Machine+Learning+%7C+Generative+AI+%7C+RAG;LLM+Applications+%7C+Prompt+Engineering;Turning+real-world+problems+into+working+software" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- ========================================================= -->
-<!-- COLORED ACTION BUTTONS -->
+<!-- CONTACT / ACTION BUTTONS -->
 <!-- ========================================================= -->
 
 <a href="https://github.com/dashwanth1012">
-<img src="https://img.shields.io/badge/◉_GITHUB-DASHWANTH1012-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/GITHUB-DASHWANTH1012-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dashwanth-reddy-gedela-173661359/">
-<img src="https://img.shields.io/badge/IN-LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084C8A"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:dashwanthreddygedela@gmail.com">
-<img src="https://img.shields.io/badge/✉_EMAIL-CONTACT-EF4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=991B1B"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EF4444?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://dashwanthreddygedela.vercel.app/">
-<img src="https://img.shields.io/badge/◈_PORTFOLIO-VISIT-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=5B21B6"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -45,14 +45,13 @@
 ### 🧭 NAVIGATE
 
 [👋 About](#-about-me) •
-[🛠️ Tech Stack](#-technology-stack) •
+[🛠️ Stack](#-technology-stack) •
 [🚀 Focus](#-current-focus) •
 [🧪 Projects](#-project-lab) •
 [💼 Experience](#-experience) •
-[🧠 DSA](#-problem-solving) •
 [🏆 Achievements](#-achievements) •
 [📊 Analytics](#-github-analytics) •
-[🤝 Connect](#-lets-connect)
+[🤝 Contact](#-lets-connect)
 
 </div>
 
@@ -63,36 +62,32 @@
 <table>
 <tr>
 
-<td width="65%">
+<td width="64%">
 
-### 🚀 Building Software + Intelligent Systems
+### 🚀 Software + AI Builder
 
 I’m a final-year **Information Technology student** focused on building
 practical, reliable, and intelligent software systems.
 
-My work combines **software engineering fundamentals** with
-**AI/ML and modern full-stack development**.
+My work sits across three connected areas:
 
-I enjoy moving from:
+**Software Engineering**  
+Backend development · REST APIs · Databases · DSA · OOP
 
-**Problem → Architecture → Implementation → Testing → Improvement**
+**Full-Stack Development**  
+React · Angular · JavaScript · FastAPI · Node.js
 
-and turning ideas into applications that solve practical problems.
+**AI Engineering**  
+Machine Learning · Generative AI · RAG · LLM Applications · Prompt Engineering
 
-### 🎯 What I Bring
-
-- Strong foundation in **Java, DSA, OOP and core Computer Science**
-- Hands-on experience with **frontend, backend, APIs and databases**
-- Practical work in **Machine Learning, Generative AI and RAG**
-- Experience building **AI-powered and data-driven applications**
-- Interest in **Prompt Engineering, LLM workflows and AI systems**
-- Experience working through **internships, hackathons and applied projects**
+I enjoy taking a real-world problem from **idea → design → implementation →
+testing → improvement** and turning it into a working solution.
 
 </td>
 
-<td width="35%" align="center">
+<td width="36%" align="center">
 
-### 💡 ENGINEERING DNA
+### 🎯 I BUILD
 
 <img src="https://skillicons.dev/icons?i=java,python,react,angular,fastapi,nodejs,mysql,mongodb" width="300"/>
 
@@ -100,13 +95,13 @@ and turning ideas into applications that solve practical problems.
 
 🧩 **Problem Solving**
 
-⚙️ **Backend Engineering**
+⚙️ **Backend Systems**
 
-🤖 **AI Engineering**
+🤖 **AI Applications**
 
-🌐 **Full-Stack Development**
+🌐 **Full-Stack Products**
 
-🏗️ **System Design**
+🏗️ **Intelligent Workflows**
 
 </td>
 
@@ -119,31 +114,31 @@ and turning ideas into applications that solve practical problems.
 
 <div align="center">
 
-## 💻 Languages
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
 
 <br/><br/>
 
-## 🌐 Frontend
+### 🌐 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap" />
 
 <br/><br/>
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 
 <br/><br/>
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
 
 <br/><br/>
 
-## 🧰 Tools
+### 🧰 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 
@@ -151,15 +146,14 @@ and turning ideas into applications that solve practical problems.
 
 ---
 
-## 🤖 AI / Machine Learning
+## 🤖 AI / ML Capabilities
 
 <div align="center">
 
-| Capability | What I Work With |
+| Capability | Practical Focus |
 |---|---|
-| 🧠 **Machine Learning** | Data preprocessing · EDA · Feature Engineering · Classification · Evaluation |
-| 🧬 **Deep Learning** | Applied neural-network and ML experimentation |
-| ✨ **Generative AI** | LLM applications · AI-powered workflows · Intelligent automation |
+| 🧠 **Machine Learning** | Preprocessing · EDA · Feature Engineering · Classification · Evaluation |
+| ✨ **Generative AI** | LLM applications · AI workflows · Intelligent automation |
 | 📚 **RAG** | Knowledge retrieval · Semantic search · Context-aware generation |
 | 🧠 **Prompt Engineering** | Prompt design · Structured instructions · LLM interaction |
 | 🔎 **LLM Systems** | Retrieval · Validation · Evaluation · Workflow orchestration |
@@ -199,8 +193,8 @@ and turning ideas into applications that solve practical problems.
 
 ### ☕ JAVA + DSA
 
-Improving algorithmic thinking,
-problem solving and complexity analysis.
+Sharpening algorithmic
+thinking and problem solving
 
 </td>
 
@@ -208,8 +202,8 @@ problem solving and complexity analysis.
 
 ### ⚙️ BACKEND
 
-Building stronger APIs,
-database workflows and backend architecture.
+Improving APIs, databases,
+security and architecture
 
 </td>
 
@@ -217,8 +211,8 @@ database workflows and backend architecture.
 
 ### 🤖 AI ENGINEERING
 
-Exploring RAG, LLM applications,
-agents and intelligent workflows.
+Exploring RAG, LLMs,
+agents and AI workflows
 
 </td>
 
@@ -226,8 +220,8 @@ agents and intelligent workflows.
 
 ### 🏗️ SYSTEM DESIGN
 
-Learning how to design
-maintainable and scalable systems.
+Learning maintainable,
+scalable system architecture
 
 </td>
 
@@ -241,9 +235,9 @@ maintainable and scalable systems.
 
 <div align="center">
 
-`Java` · `DSA` · `Backend Architecture` · `REST APIs`
-· `System Design` · `Generative AI` · `RAG`
-· `LLM Applications` · `Prompt Engineering` · `AI Agents`
+`Java` · `DSA` · `Backend Architecture` · `System Design`
+· `Generative AI` · `RAG` · `LLM Applications`
+· `Prompt Engineering` · `AI Agents`
 
 </div>
 
@@ -251,9 +245,11 @@ maintainable and scalable systems.
 
 # 🧪 Project Lab
 
-> **Where ideas become applications.**
+> **Where software engineering meets AI, data, and real-world problems.**
 
-## 🌟 Featured Projects
+---
+
+# 🌟 Featured Projects
 
 <table>
 
@@ -265,21 +261,15 @@ maintainable and scalable systems.
 
 ### RAG-powered intelligent support
 
-An AI-powered customer-support application focused on
-**knowledge retrieval, semantic search and context-aware responses**.
+AI-powered customer support application focused on
+**knowledge retrieval, semantic search, and context-aware responses**.
 
 **Capabilities**
 
 `RAG` `Vector Search` `Knowledge Retrieval` `LLM Responses`
 
-**Stack**
-
-`Next.js` `Supabase`
-
 <a href="https://github.com/dashwanth1012/AI-CUSTOMER-SUPPORT-ASSISTANT">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -290,7 +280,7 @@ An AI-powered customer-support application focused on
 
 ### Thunderstorm forecasting & decision support
 
-A forecasting-oriented system focused on
+Forecasting-oriented system focused on
 **thunderstorm risk prediction, atmospheric analysis,
 visualization and decision support**.
 
@@ -298,14 +288,8 @@ visualization and decision support**.
 
 `Forecasting` `Risk Prediction` `Data Analysis` `Visualization`
 
-**Stack**
-
-`Python` `Machine Learning`
-
 <a href="https://github.com/dashwanth1012/Stromsense-AI">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -320,21 +304,15 @@ visualization and decision support**.
 
 ### AI-powered attendance workflows
 
-Attendance management application using
+Application focused on automated attendance using
 **face recognition and full-stack technologies**.
 
 **Capabilities**
 
 `Computer Vision` `API Development` `Database Integration`
 
-**Stack**
-
-`Python` `FastAPI` `React` `MySQL`
-
 <a href="https://github.com/dashwanth1012/SMART-ATTENDANCE-MANAGEMENT-SYSTEM">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -345,21 +323,15 @@ Attendance management application using
 
 ### Real-time computer vision effects
 
-Interactive visual-effects system built around
+Interactive visual-effects system using
 **hand gestures, computer vision and real-time rendering**.
 
 **Capabilities**
 
 `Gesture Interaction` `Computer Vision` `Real-Time Processing`
 
-**Stack**
-
-`Python` `OpenCV` `MediaPipe`
-
 <a href="https://github.com/dashwanth1012/AuraFX-Studio">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -375,20 +347,14 @@ Interactive visual-effects system built around
 ### Machine-learning fraud analysis
 
 Data-driven project focused on identifying potentially fraudulent
-transactions through analytical and predictive methods.
+transactions using analytical and predictive methods.
 
 **Capabilities**
 
 `EDA` `Feature Engineering` `Classification` `Risk Prediction`
 
-**Stack**
-
-`Python` `Machine Learning`
-
 <a href="https://github.com/dashwanth1012/Credit-card-fraud-detection-system">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -399,21 +365,15 @@ transactions through analytical and predictive methods.
 
 ### Data & application workflow
 
-TypeScript-based application focused on
-**CRM data import and processing workflows**.
+TypeScript-based project focused on
+**CRM import and data-handling workflows**.
 
 **Capabilities**
 
 `Data Processing` `Application Workflows` `Type Safety`
 
-**Stack**
-
-`TypeScript`
-
 <a href="https://github.com/dashwanth1012/groweasy-ai-crm-importer">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-F43F5E?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-F43F5E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -424,7 +384,7 @@ TypeScript-based application focused on
 
 ---
 
-# 🔬 More Builds
+# 🔬 Additional Projects
 
 <details>
 <summary><b>🎵 Machine Learning & Data</b></summary>
@@ -445,7 +405,7 @@ View Repository →
 
 ### 💹 Trader Behavior Insights
 
-Data-oriented interface for exploring trading behaviour insights.
+Data-oriented project focused on exploring trading behaviour insights.
 
 `HTML`
 
@@ -454,8 +414,6 @@ View Repository →
 </a>
 
 </details>
-
----
 
 <details>
 <summary><b>🌐 Web & Application Development</b></summary>
@@ -488,7 +446,7 @@ View Repository →
 
 ### 🌐 Interactive Digital Portfolio
 
-Responsive portfolio application.
+Responsive portfolio website.
 
 `HTML` `CSS` `JavaScript`
 
@@ -509,8 +467,6 @@ View Repository →
 </a>
 
 </details>
-
----
 
 <details>
 <summary><b>💼 Industry & Academic Work</b></summary>
@@ -558,11 +514,11 @@ FYP- →
 
 ---
 
-# 🗺️ Project Portfolio
+# 🗺️ Project Portfolio Map
 
 <div align="center">
 
-| Project | Capability | Stack |
+| Project | Capability | Primary Stack |
 |---|---|---|
 | 🤖 AI Customer Support Assistant | RAG · Retrieval · LLM | Next.js · Supabase |
 | ⛈️ StormSense AI | Forecasting · Risk Analysis | Python · ML |
@@ -571,9 +527,9 @@ FYP- →
 | 🛡️ Fraud Detection | Classification · Risk Prediction | Python · ML |
 | 📥 GrowEasy AI CRM | Data Processing · Workflow | TypeScript |
 | 🎵 Music Recommendation | Recommendation Systems | Python |
-| 💹 Trader Behavior Insights | Data Visualization / UI | HTML |
+| 💹 Trader Behavior Insights | Data / UI | HTML |
 | 🏠 Real Estate | Application Development | Java |
-| ♻️ Waste Management Admin | Frontend Development | JavaScript |
+| ♻️ Waste Management Admin | Frontend | JavaScript |
 | 🌐 Interactive Digital Portfolio | Web Development | HTML · CSS · JS |
 | 💼 Personal Portfolio | Web Development | JavaScript |
 | 🧪 VALURA AI Assignment | AI Engineering | Applied AI |
@@ -598,10 +554,8 @@ FYP- →
 
 `May 2026 – June 2026`
 
-**Worked on**
-
-Weather forecasting and thunderstorm-analysis tools using
-meteorological datasets.
+Worked on weather forecasting and thunderstorm-analysis
+solutions using meteorological datasets.
 
 **Capabilities**
 
@@ -617,10 +571,8 @@ meteorological datasets.
 
 `June 2026 – July 2026`
 
-**Worked on**
-
-Machine-learning workflows involving preprocessing,
-EDA, model development and evaluation.
+Worked on practical machine-learning workflows involving
+preprocessing, EDA, model development and evaluation.
 
 **Capabilities**
 
@@ -640,9 +592,7 @@ EDA, model development and evaluation.
 
 `May 2026 – July 2026`
 
-**Worked on**
-
-Machine-learning algorithms, data preprocessing,
+Worked with machine-learning algorithms, preprocessing,
 model evaluation and analytical programming.
 
 **Capabilities**
@@ -659,10 +609,9 @@ model evaluation and analytical programming.
 
 `October 2025 – December 2025`
 
-**Worked on**
-
-Full-stack applications using Angular, REST APIs and
-backend integration.
+Worked on full-stack applications involving Angular,
+REST APIs, authentication, validation, backend integration
+and API security.
 
 **Capabilities**
 
@@ -683,14 +632,13 @@ backend integration.
 
 `August 2025 – September 2025`
 
-**Worked on**
-
-Responsive web applications with reusable UI components
-and dynamic rendering.
+Built responsive web applications using HTML, CSS,
+JavaScript and Bootstrap.
 
 **Capabilities**
 
-`HTML` `CSS` `JavaScript` `Bootstrap` `Responsive UI`
+`Responsive UI` `Frontend Development`
+`Reusable Components`
 
 </td>
 
@@ -716,59 +664,390 @@ and dynamic rendering.
 
 # 🧠 Problem Solving
 
-## ☕ Java + DSA
+## ☕ Java + Data Structures & Algorithms
 
-I’m actively strengthening my programming fundamentals and
-algorithmic problem-solving skills through Java.
+I’m actively strengthening my algorithmic problem-solving skills
+through Java.
 
 ### Areas of Focus
 
 <div align="center">
 
-`Arrays`
-`Strings`
-`Hashing`
-`Linked Lists`
+`Arrays` · `Strings` · `Hashing` · `Linked Lists`
 
-`Stacks & Queues`
-`Trees`
-`Graphs`
-`Heaps`
+`Stacks & Queues` · `Trees` · `Graphs` · `Heaps`
 
-`Binary Search`
-`Recursion`
-`Backtracking`
+`Binary Search` · `Recursion` · `Backtracking`
 
-`Greedy`
-`Dynamic Programming`
+`Greedy` · `Dynamic Programming`
 
 </div>
 
-### 🔄 Problem-Solving Workflow
+### What I Focus On
 
-```text
-          🧩 UNDERSTAND
-                │
-                ▼
-        🔎 IDENTIFY PATTERN
-                │
-                ▼
-      🗂️ CHOOSE DATA STRUCTURE
-                │
-                ▼
-         🏗️ DESIGN SOLUTION
-                │
-                ▼
-       ⏱️ ANALYZE COMPLEXITY
-                │
-                ▼
-        🛡️ CHECK EDGE CASES
-                │
-                ▼
-        💻 IMPLEMENT IN JAVA
-                │
-                ▼
-             🧪 TEST
-                │
-                ▼
-          ⚡ OPTIMIZE
+`Correctness`
+·
+`Time Complexity`
+·
+`Space Complexity`
+·
+`Edge Cases`
+·
+`Clean Code`
+·
+`Optimization`
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+
+## 🏆
+
+### WINNER
+
+**Brain O Vision Hackathon**
+
+</td>
+
+<td align="center">
+
+## 🥇
+
+### 1st PRIZE
+
+**College-Level Essay Competition**
+
+</td>
+
+<td align="center">
+
+## 🇮🇳
+
+### PARTICIPANT
+
+**Smart India Hackathon 2025**
+
+</td>
+
+<td align="center">
+
+## ⚡
+
+### PARTICIPANT
+
+**24-Hour Hackathon**
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 📜 Certifications
+
+<details>
+<summary><b>🤖 AI & Cloud</b></summary>
+
+<br/>
+
+- Oracle Cloud Infrastructure — **Generative AI Professional**
+- Oracle Cloud Infrastructure — **Agentic AI Certified Foundations Associate**
+- AWS Solutions Architecture Virtual Experience Program
+
+</details>
+
+<details>
+<summary><b>💼 Professional & Industry</b></summary>
+
+<br/>
+
+- McKinsey Forward Program
+- JPMorgan Job Simulation
+- Tata — GenAI Powered Data Analytics Job Simulation
+- Tata — Cybersecurity Analyst Job Simulation
+- Tata — ESG Job Simulation
+
+</details>
+
+<details>
+<summary><b>🛠️ Development & Technology</b></summary>
+
+<br/>
+
+- Oracle Database Foundations Certified Junior Associate
+- GitHub Copilot Fundamentals
+- TCS iON Career Edge
+- HP Agile Project Management
+- Basic DevSecOps & Cloud Engineering
+
+</details>
+
+---
+
+# 🧭 Engineering Interests
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+## 💻 Software Engineering
+
+Backend Engineering  
+REST APIs  
+Database Design  
+System Design  
+Secure Applications
+
+</td>
+
+<td align="center" width="33%">
+
+## 🤖 AI Engineering
+
+LLM Applications  
+RAG  
+Prompt Engineering  
+AI Workflows  
+AI Agents
+
+</td>
+
+<td align="center" width="33%">
+
+## 📊 Data & ML
+
+Machine Learning  
+EDA  
+Feature Engineering  
+Model Evaluation  
+Predictive Systems
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dashwanth1012&theme=github_dark" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dashwanth1012&theme=github_dark" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dashwanth1012&theme=github_dark" height="180"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dashwanth1012&theme=github-dark-blue&hide_border=true&border_radius=12&ring=7C3AED&fire=EC4899&currStreakLabel=38BDF8" width="90%"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dashwanth1012&theme=react-dark&hide_border=true&area=true&radius=12" width="100%"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dashwanth1012&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dashwanth1012/dashwanth1012/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+> Requires the GitHub Actions workflow that generates the SVG in the
+> `output` branch.
+
+---
+
+# 📌 GitHub Highlights
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/dashwanth1012?label=FOLLOWERS&style=for-the-badge&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/repos/dashwanth1012?label=PUBLIC%20REPOSITORIES&style=for-the-badge&color=06B6D4"/>
+
+<img src="https://img.shields.io/github/last-commit/dashwanth1012/dashwanth1012?label=LAST%20PROFILE%20UPDATE&style=for-the-badge&color=EC4899"/>
+
+</div>
+
+---
+
+# 🌱 Learning & Building
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,react,angular,fastapi,nodejs,mysql,mongodb,git,github" />
+
+<br/><br/>
+
+`Java`
+·
+`DSA`
+·
+`Backend`
+·
+`Full-Stack`
+·
+`AI/ML`
+·
+`RAG`
+·
+`LLMs`
+·
+`Prompt Engineering`
+
+</div>
+
+---
+
+# 🎯 Career Direction
+
+<div align="center">
+
+### 💻 SOFTWARE ENGINEERING
+
+`Software Development`
+·
+`Backend Engineering`
+·
+`Full-Stack Development`
+
+### 🤖 AI / ML ENGINEERING
+
+`Machine Learning`
+·
+`Generative AI`
+·
+`RAG`
+·
+`LLM Applications`
+
+### ✨ INTELLIGENT SYSTEMS
+
+`Prompt Engineering`
+·
+`AI Workflows`
+·
+`AI Agents`
+
+</div>
+
+I’m interested in opportunities where I can work on **real engineering
+problems, learn from experienced developers, collaborate with strong teams,
+and build software that creates practical value**.
+
+---
+
+# 💡 Developer Philosophy
+
+<div align="center">
+
+## Think deeply. Build simply. Improve continuously.
+
+<br/>
+
+`Curiosity`
+&nbsp;×&nbsp;
+`Consistency`
+&nbsp;×&nbsp;
+`Problem Solving`
+&nbsp;×&nbsp;
+`Engineering`
+
+<br/><br/>
+
+> **The goal isn't just to write code.  
+> The goal is to build something that works.**
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Have a project, collaboration, idea, or opportunity?
+
+<br/>
+
+<a href="https://github.com/dashwanth1012">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dashwanth-reddy-gedela-173661359/">
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://dashwanthreddygedela.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:dashwanthreddygedela@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-EF4444?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ BUILD • LEARN • SOLVE • IMPROVE
+
+**Turning real-world problems into practical software.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,25:7C3AED,50:4F46E5,75:2563EB,100:06B6D4&height=150&section=footer&animation=twinkling" width="100%"/>
+
+</div>
