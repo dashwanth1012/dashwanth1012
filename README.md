@@ -4,7 +4,7 @@
 <!-- HERO -->
 <!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,18:0F766E,40:2563EB,65:7C3AED,85:EC4899,100:F43F5E&height=270&section=header&text=GEDELA%20DASHWANTH&fontSize=48&fontColor=FFFFFF&fontAlignY=31&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%2FML%20ENGINEER%20%7C%20PROMPT%20ENGINEER%20%7C%20FULL-STACK&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,18:0F766E,38:2563EB,60:4F46E5,80:7C3AED,100:EC4899&height=270&section=header&text=GEDELA%20DASHWANTH&fontSize=50&fontColor=FFFFFF&fontAlignY=31&animation=twinkling&desc=Software%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Prompt%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=59&descSize=17" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com/">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+practical+software+systems;Java+%7C+DSA+%7C+Backend+%7C+Full-Stack;Machine+Learning+%7C+Generative+AI+%7C+RAG;LLM+Applications+%7C+Prompt+Engineering;Turning+real-world+problems+into+working+software" alt="Typing SVG"/>
@@ -12,20 +12,24 @@
 
 <br/>
 
+<!-- ========================================================= -->
+<!-- COLORED ACTION BUTTONS -->
+<!-- ========================================================= -->
+
 <a href="https://github.com/dashwanth1012">
-<img src="https://img.shields.io/badge/GitHub-dashwanth1012-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/◉_GITHUB-DASHWANTH1012-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dashwanth-reddy-gedela-173661359/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/IN-LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084C8A"/>
 </a>
 
 <a href="mailto:dashwanthreddygedela@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/✉_EMAIL-CONTACT-EF4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=991B1B"/>
 </a>
 
 <a href="https://dashwanthreddygedela.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/◈_PORTFOLIO-VISIT-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=5B21B6"/>
 </a>
 
 <br/><br/>
@@ -38,10 +42,9 @@
 
 <div align="center">
 
-## 🧭 QUICK NAVIGATION
+### 🧭 NAVIGATE
 
 [👋 About](#-about-me) •
-[⚡ Snapshot](#-developer-snapshot) •
 [🛠️ Tech Stack](#-technology-stack) •
 [🚀 Focus](#-current-focus) •
 [🧪 Projects](#-project-lab) •
@@ -60,161 +63,87 @@
 <table>
 <tr>
 
-<td width="64%">
+<td width="65%">
 
-### 🚀 Who I Am
+### 🚀 Building Software + Intelligent Systems
 
 I’m a final-year **Information Technology student** focused on building
-practical, intelligent, and user-oriented software systems.
+practical, reliable, and intelligent software systems.
 
-My engineering interests combine:
+My work combines **software engineering fundamentals** with
+**AI/ML and modern full-stack development**.
 
-**Software Engineering**
+I enjoy moving from:
 
-`Java` · `DSA` · `OOP` · `Backend` · `REST APIs` · `Databases`
+**Problem → Architecture → Implementation → Testing → Improvement**
 
-**Full-Stack Development**
+and turning ideas into applications that solve practical problems.
 
-`React` · `Angular` · `JavaScript` · `FastAPI` · `Node.js`
+### 🎯 What I Bring
 
-**AI Engineering**
-
-`Machine Learning` · `Generative AI` · `RAG` · `LLM Applications`
-· `Prompt Engineering`
-
-I enjoy taking a problem from **idea → architecture → implementation → testing**
-and turning it into something useful.
+- Strong foundation in **Java, DSA, OOP and core Computer Science**
+- Hands-on experience with **frontend, backend, APIs and databases**
+- Practical work in **Machine Learning, Generative AI and RAG**
+- Experience building **AI-powered and data-driven applications**
+- Interest in **Prompt Engineering, LLM workflows and AI systems**
+- Experience working through **internships, hackathons and applied projects**
 
 </td>
 
-<td width="36%" align="center">
+<td width="35%" align="center">
 
-### 🎯 Current Identity
+### 💡 ENGINEERING DNA
 
-<img src="https://skillicons.dev/icons?i=java,python,react,angular,fastapi,nodejs,mysql,mongodb" width="290"/>
+<img src="https://skillicons.dev/icons?i=java,python,react,angular,fastapi,nodejs,mysql,mongodb" width="300"/>
 
 <br/><br/>
 
-**Software Development**
+🧩 **Problem Solving**
 
-**AI / ML**
+⚙️ **Backend Engineering**
 
-**Full-Stack**
+🤖 **AI Engineering**
 
-**Backend**
+🌐 **Full-Stack Development**
 
-**Problem Solving**
+🏗️ **System Design**
 
 </td>
 
 </tr>
 </table>
-
----
-
-# ⚡ Developer Snapshot
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="20%">
-
-## ☕
-### JAVA
-
-**DSA**  
-**OOP**  
-**Problem Solving**
-
-</td>
-
-<td align="center" width="20%">
-
-## 🌐
-### FULL-STACK
-
-**React**  
-**Angular**  
-**JavaScript**
-
-</td>
-
-<td align="center" width="20%">
-
-## ⚙️
-### BACKEND
-
-**FastAPI**  
-**Node.js**  
-**REST APIs**
-
-</td>
-
-<td align="center" width="20%">
-
-## 🤖
-### AI / ML
-
-**ML**  
-**GenAI**  
-**RAG**  
-**LLMs**
-
-</td>
-
-<td align="center" width="20%">
-
-## ✨
-### PROMPTING
-
-**Prompt Design**  
-**LLM Interaction**  
-**AI Workflows**
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
 
 ---
 
 # 🛠️ Technology Stack
 
-> **My primary engineering toolkit**
-
 <div align="center">
 
-### 💻 Languages
+## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,js,typescript,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts" />
 
 <br/><br/>
 
-### 🌐 Frontend
+## 🌐 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap" />
 
 <br/><br/>
 
-### ⚙️ Backend
+## ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 
 <br/><br/>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
 
 <br/><br/>
 
-### 🧰 Developer Tools
+## 🧰 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 
@@ -226,14 +155,15 @@ and turning it into something useful.
 
 <div align="center">
 
-| Area | Capabilities |
+| Capability | What I Work With |
 |---|---|
 | 🧠 **Machine Learning** | Data preprocessing · EDA · Feature Engineering · Classification · Evaluation |
-| 🧬 **Deep Learning** | Neural-network based experimentation and applied ML workflows |
-| ✨ **Generative AI** | LLM applications · AI-powered workflows · intelligent automation |
-| 📚 **RAG** | Knowledge retrieval · semantic search · context-aware generation |
-| 🧠 **Prompt Engineering** | Prompt design · structured instructions · LLM interaction workflows |
-| 🔎 **LLM Systems** | Retrieval · validation · evaluation · AI workflow orchestration |
+| 🧬 **Deep Learning** | Applied neural-network and ML experimentation |
+| ✨ **Generative AI** | LLM applications · AI-powered workflows · Intelligent automation |
+| 📚 **RAG** | Knowledge retrieval · Semantic search · Context-aware generation |
+| 🧠 **Prompt Engineering** | Prompt design · Structured instructions · LLM interaction |
+| 🔎 **LLM Systems** | Retrieval · Validation · Evaluation · Workflow orchestration |
+| 👁️ **Computer Vision** | Face recognition · Hand tracking · Real-time visual interaction |
 
 </div>
 
@@ -244,9 +174,13 @@ and turning it into something useful.
 <div align="center">
 
 `Data Structures & Algorithms`
+&nbsp;•&nbsp;
 `OOP`
+&nbsp;•&nbsp;
 `DBMS`
+&nbsp;•&nbsp;
 `Operating Systems`
+&nbsp;•&nbsp;
 `Computer Networks`
 
 </div>
@@ -255,51 +189,45 @@ and turning it into something useful.
 
 # 🚀 Current Focus
 
+<div align="center">
+
 <table>
 
 <tr>
 
 <td align="center" width="25%">
 
-## 🧩
+### ☕ JAVA + DSA
 
-### Java + DSA
-
-Strengthening algorithmic
-thinking and problem solving.
+Improving algorithmic thinking,
+problem solving and complexity analysis.
 
 </td>
 
 <td align="center" width="25%">
 
-## ⚙️
+### ⚙️ BACKEND
 
-### Backend Engineering
-
-APIs, databases,
-security & architecture.
+Building stronger APIs,
+database workflows and backend architecture.
 
 </td>
 
 <td align="center" width="25%">
 
-## 🤖
+### 🤖 AI ENGINEERING
 
-### AI Engineering
-
-RAG, LLM applications,
-AI workflows & agents.
+Exploring RAG, LLM applications,
+agents and intelligent workflows.
 
 </td>
 
 <td align="center" width="25%">
 
-## 🏗️
+### 🏗️ SYSTEM DESIGN
 
-### System Design
-
-Building maintainable
-and scalable systems.
+Learning how to design
+maintainable and scalable systems.
 
 </td>
 
@@ -307,13 +235,15 @@ and scalable systems.
 
 </table>
 
+</div>
+
 ### 🌱 Currently Exploring
 
 <div align="center">
 
-`Java` · `DSA` · `Backend Architecture` · `System Design`
-· `Generative AI` · `RAG` · `LLM Applications`
-· `Prompt Engineering` · `AI Agents`
+`Java` · `DSA` · `Backend Architecture` · `REST APIs`
+· `System Design` · `Generative AI` · `RAG`
+· `LLM Applications` · `Prompt Engineering` · `AI Agents`
 
 </div>
 
@@ -321,12 +251,9 @@ and scalable systems.
 
 # 🧪 Project Lab
 
-> **A collection of AI, ML, computer vision, full-stack, backend, frontend,
-and data-driven projects.**
+> **Where ideas become applications.**
 
----
-
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
 <table>
 
@@ -338,19 +265,21 @@ and data-driven projects.**
 
 ### RAG-powered intelligent support
 
-AI-powered customer support application focused on
-**knowledge retrieval, semantic search, and context-aware responses**.
+An AI-powered customer-support application focused on
+**knowledge retrieval, semantic search and context-aware responses**.
 
-**Capability**
+**Capabilities**
 
-`RAG` `Vector Search` `Knowledge Retrieval` `LLMs`
+`RAG` `Vector Search` `Knowledge Retrieval` `LLM Responses`
 
 **Stack**
 
 `Next.js` `Supabase`
 
 <a href="https://github.com/dashwanth1012/AI-CUSTOMER-SUPPORT-ASSISTANT">
+
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -363,9 +292,9 @@ AI-powered customer support application focused on
 
 A forecasting-oriented system focused on
 **thunderstorm risk prediction, atmospheric analysis,
-visualization, and decision support**.
+visualization and decision support**.
 
-**Capability**
+**Capabilities**
 
 `Forecasting` `Risk Prediction` `Data Analysis` `Visualization`
 
@@ -374,7 +303,9 @@ visualization, and decision support**.
 `Python` `Machine Learning`
 
 <a href="https://github.com/dashwanth1012/Stromsense-AI">
+
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -389,10 +320,10 @@ visualization, and decision support**.
 
 ### AI-powered attendance workflows
 
-Application focused on automated attendance using
+Attendance management application using
 **face recognition and full-stack technologies**.
 
-**Capability**
+**Capabilities**
 
 `Computer Vision` `API Development` `Database Integration`
 
@@ -401,7 +332,9 @@ Application focused on automated attendance using
 `Python` `FastAPI` `React` `MySQL`
 
 <a href="https://github.com/dashwanth1012/SMART-ATTENDANCE-MANAGEMENT-SYSTEM">
+
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -410,21 +343,23 @@ Application focused on automated attendance using
 
 ## 🎨 AuraFX Studio
 
-### AI-powered real-time visual effects
+### Real-time computer vision effects
 
-Gesture-controlled visual-effects system built around
-**OpenCV, MediaPipe, computer vision, and modular workflows**.
+Interactive visual-effects system built around
+**hand gestures, computer vision and real-time rendering**.
 
-**Capability**
+**Capabilities**
 
-`Computer Vision` `Gesture Interaction` `Real-Time Processing`
+`Gesture Interaction` `Computer Vision` `Real-Time Processing`
 
 **Stack**
 
 `Python` `OpenCV` `MediaPipe`
 
 <a href="https://github.com/dashwanth1012/AuraFX-Studio">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -439,10 +374,10 @@ Gesture-controlled visual-effects system built around
 
 ### Machine-learning fraud analysis
 
-Data-driven system focused on identifying potentially fraudulent
-transactions using analytical and predictive techniques.
+Data-driven project focused on identifying potentially fraudulent
+transactions through analytical and predictive methods.
 
-**Capability**
+**Capabilities**
 
 `EDA` `Feature Engineering` `Classification` `Risk Prediction`
 
@@ -451,7 +386,9 @@ transactions using analytical and predictive techniques.
 `Python` `Machine Learning`
 
 <a href="https://github.com/dashwanth1012/Credit-card-fraud-detection-system">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -462,10 +399,10 @@ transactions using analytical and predictive techniques.
 
 ### Data & application workflow
 
-TypeScript-based project focused on
-**CRM import and data-handling workflows**.
+TypeScript-based application focused on
+**CRM data import and processing workflows**.
 
-**Capability**
+**Capabilities**
 
 `Data Processing` `Application Workflows` `Type Safety`
 
@@ -474,7 +411,9 @@ TypeScript-based project focused on
 `TypeScript`
 
 <a href="https://github.com/dashwanth1012/groweasy-ai-crm-importer">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F43F5E?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -485,16 +424,16 @@ TypeScript-based project focused on
 
 ---
 
-# 🔬 More Projects
+# 🔬 More Builds
 
 <details>
-<summary><b>🎵 Machine Learning & Data Projects</b></summary>
+<summary><b>🎵 Machine Learning & Data</b></summary>
 
 <br/>
 
 ### 🎵 Music Recommendation System
 
-A recommendation-oriented machine-learning project.
+Recommendation-oriented machine-learning project.
 
 `Python`
 
@@ -506,7 +445,7 @@ View Repository →
 
 ### 💹 Trader Behavior Insights
 
-Data-oriented project for exploring trading behaviour insights.
+Data-oriented interface for exploring trading behaviour insights.
 
 `HTML`
 
@@ -519,13 +458,13 @@ View Repository →
 ---
 
 <details>
-<summary><b>🌐 Web & Application Projects</b></summary>
+<summary><b>🌐 Web & Application Development</b></summary>
 
 <br/>
 
 ### 🏠 Real Estate
 
-Application-development project exploring real-world property workflows.
+Application-development project exploring property-related workflows.
 
 `Java`
 
@@ -549,7 +488,7 @@ View Repository →
 
 ### 🌐 Interactive Digital Portfolio
 
-Responsive portfolio website built with frontend technologies.
+Responsive portfolio application.
 
 `HTML` `CSS` `JavaScript`
 
@@ -561,7 +500,7 @@ View Repository →
 
 ### 💼 Personal Portfolio Website
 
-Personal developer portfolio project.
+Personal developer portfolio.
 
 `JavaScript`
 
@@ -619,27 +558,27 @@ FYP- →
 
 ---
 
-# 🗺️ Project Portfolio Map
+# 🗺️ Project Portfolio
 
 <div align="center">
 
-| Project | Domain | Primary Stack |
+| Project | Capability | Stack |
 |---|---|---|
-| 🤖 AI Customer Support Assistant | RAG / GenAI | Next.js · Supabase |
-| ⛈️ StormSense AI | Forecasting / ML | Python · ML |
-| 🧑‍💻 Smart Attendance | CV / Full-Stack | FastAPI · React · MySQL |
-| 🎨 AuraFX Studio | Computer Vision | Python · OpenCV · MediaPipe |
-| 🛡️ Fraud Detection | Machine Learning | Python |
-| 📥 GrowEasy AI CRM | Application / Data | TypeScript |
-| 🎵 Music Recommendation | Machine Learning | Python |
-| 💹 Trader Behavior Insights | Data / UI | HTML |
+| 🤖 AI Customer Support Assistant | RAG · Retrieval · LLM | Next.js · Supabase |
+| ⛈️ StormSense AI | Forecasting · Risk Analysis | Python · ML |
+| 🧑‍💻 Smart Attendance | Computer Vision · Full-Stack | FastAPI · React · MySQL |
+| 🎨 AuraFX Studio | Gesture Interaction · CV | Python · OpenCV · MediaPipe |
+| 🛡️ Fraud Detection | Classification · Risk Prediction | Python · ML |
+| 📥 GrowEasy AI CRM | Data Processing · Workflow | TypeScript |
+| 🎵 Music Recommendation | Recommendation Systems | Python |
+| 💹 Trader Behavior Insights | Data Visualization / UI | HTML |
 | 🏠 Real Estate | Application Development | Java |
-| ♻️ Waste Management Admin | Frontend | JavaScript |
-| 🌐 Interactive Digital Portfolio | Frontend | HTML · CSS · JavaScript |
-| 💼 Personal Portfolio | Web | JavaScript |
+| ♻️ Waste Management Admin | Frontend Development | JavaScript |
+| 🌐 Interactive Digital Portfolio | Web Development | HTML · CSS · JS |
+| 💼 Personal Portfolio | Web Development | JavaScript |
 | 🧪 VALURA AI Assignment | AI Engineering | Applied AI |
 | ☕ J.P. Morgan Midas | Software Engineering | Java |
-| 🎓 FYP / FYP- | Academic | Python / Mixed |
+| 🎓 FYP / FYP- | Academic Development | Python / Mixed |
 
 </div>
 
@@ -655,15 +594,18 @@ FYP- →
 
 ## 🌦️ India Meteorological Department
 
-**Research & Development Intern**
+### Research & Development Intern
 
 `May 2026 – June 2026`
 
-Worked on weather forecasting and thunderstorm-analysis solutions using
+**Worked on**
+
+Weather forecasting and thunderstorm-analysis tools using
 meteorological datasets.
 
-Developed visualization modules supporting forecasting and
-decision-making workflows.
+**Capabilities**
+
+`Data Analysis` `Forecasting` `Visualization` `Decision Support`
 
 </td>
 
@@ -671,13 +613,18 @@ decision-making workflows.
 
 ## 🤖 BrainOVision Solutions
 
-**Python, Data Science, ML & AI Intern**
+### Python, Data Science, ML & AI Intern
 
 `June 2026 – July 2026`
 
-Worked on practical Machine Learning workflows involving
-data preprocessing, exploratory data analysis,
-model development, and evaluation.
+**Worked on**
+
+Machine-learning workflows involving preprocessing,
+EDA, model development and evaluation.
+
+**Capabilities**
+
+`Python` `EDA` `Machine Learning` `Model Evaluation`
 
 </td>
 
@@ -689,13 +636,18 @@ model development, and evaluation.
 
 ## 🧠 The Entrepreneurship Network
 
-**AI/ML Intern**
+### AI/ML Intern
 
 `May 2026 – July 2026`
 
-Worked with machine-learning algorithms,
-data preprocessing, model evaluation,
-and analytical programming.
+**Worked on**
+
+Machine-learning algorithms, data preprocessing,
+model evaluation and analytical programming.
+
+**Capabilities**
+
+`ML Algorithms` `Data Processing` `Evaluation`
 
 </td>
 
@@ -703,13 +655,19 @@ and analytical programming.
 
 ## 💻 Infosys Springboard 6.0
 
-**Virtual Internship**
+### Full-Stack Virtual Intern
 
 `October 2025 – December 2025`
 
-Worked on full-stack applications involving Angular,
-REST APIs, authentication, validation,
-backend integration, and API security.
+**Worked on**
+
+Full-stack applications using Angular, REST APIs and
+backend integration.
+
+**Capabilities**
+
+`Angular` `REST APIs` `Authentication`
+`Validation` `API Security`
 
 </td>
 
@@ -721,12 +679,18 @@ backend integration, and API security.
 
 ## 🎨 AICTE Edunet Foundation
 
-**Front-End Web Development Intern**
+### Front-End Web Development Intern
 
 `August 2025 – September 2025`
 
-Built responsive web applications using HTML, CSS,
-JavaScript, and Bootstrap.
+**Worked on**
+
+Responsive web applications with reusable UI components
+and dynamic rendering.
+
+**Capabilities**
+
+`HTML` `CSS` `JavaScript` `Bootstrap` `Responsive UI`
 
 </td>
 
@@ -734,9 +698,9 @@ JavaScript, and Bootstrap.
 
 ## 🎓 Education
 
-**B.Tech — Information Technology**
+### B.Tech — Information Technology
 
-Sir C.R. Reddy College of Engineering
+**Sir C.R. Reddy College of Engineering**
 
 `2023 – 2027`
 
@@ -752,7 +716,7 @@ Sir C.R. Reddy College of Engineering
 
 # 🧠 Problem Solving
 
-## ☕ Java + Data Structures & Algorithms
+## ☕ Java + DSA
 
 I’m actively strengthening my programming fundamentals and
 algorithmic problem-solving skills through Java.
@@ -783,28 +747,28 @@ algorithmic problem-solving skills through Java.
 ### 🔄 Problem-Solving Workflow
 
 ```text
-            🧩 UNDERSTAND
-                 │
-                 ▼
-          🔎 FIND THE PATTERN
-                 │
-                 ▼
-        🗂️ CHOOSE DATA STRUCTURE
-                 │
-                 ▼
-           🏗️ DESIGN SOLUTION
-                 │
-                 ▼
-          ⏱️ ANALYZE COMPLEXITY
-                 │
-                 ▼
-          🛡️ CHECK EDGE CASES
-                 │
-                 ▼
-          💻 IMPLEMENT IN JAVA
-                 │
-                 ▼
+          🧩 UNDERSTAND
+                │
+                ▼
+        🔎 IDENTIFY PATTERN
+                │
+                ▼
+      🗂️ CHOOSE DATA STRUCTURE
+                │
+                ▼
+         🏗️ DESIGN SOLUTION
+                │
+                ▼
+       ⏱️ ANALYZE COMPLEXITY
+                │
+                ▼
+        🛡️ CHECK EDGE CASES
+                │
+                ▼
+        💻 IMPLEMENT IN JAVA
+                │
+                ▼
              🧪 TEST
-                 │
-                 ▼
-             ⚡ OPTIMIZE
+                │
+                ▼
+          ⚡ OPTIMIZE
